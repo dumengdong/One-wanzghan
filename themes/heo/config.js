@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://reksai.link' },
-    // { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '访问百度可以获取更多帮助', url: 'https://www.baidu.com/' }
   ],
 
   // 英雄区(首页顶部大卡)
