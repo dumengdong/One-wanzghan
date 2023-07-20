@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/e3204f73-ed7a-4ffa-ba0f-62e6b1f129ba' },
   HERO_CATEGORY_2: { title: '热门文章', url: '/article/bcb90204-12b0-4f8c-8513-d93e28e8bd78' },
-  HERO_CATEGORY_3: { title: '实用软件', url: '/jiaocheng' },
+  HERO_CATEGORY_3: { title: '实用软件', url: '/1ea9c26b-c112-45e2-97ed-63f22dd33d47' },
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
