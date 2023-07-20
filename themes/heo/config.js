@@ -18,7 +18,7 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://ai-bot.cn/',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/jingxuan' },
+  HERO_CATEGORY_1: { title: '必看精选', url: 'https://www.leikesai.top/jingxuan' },
   HERO_CATEGORY_2: { title: '热门文章', url: '/wenzhang' },
   HERO_CATEGORY_3: { title: '实用软件', url: '/jiaocheng' },
 
