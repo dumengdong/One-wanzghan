@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/jingxuan' },
   HERO_CATEGORY_2: { title: '热门文章', url: '/wenzhang' },
-  HERO_CATEGORY_3: { title: '实用教程', url: '/jiaocheng' },
+  HERO_CATEGORY_3: { title: '实用软件', url: '/jiaocheng' },
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
