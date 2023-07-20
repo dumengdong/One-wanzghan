@@ -18,9 +18,9 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://ai-bot.cn/',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: 'https://one-wanzghan.vercel.app/jingxuan' },
-  HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HERO_CATEGORY_1: { title: '必看精选', url: '/jingxuan' },
+  HERO_CATEGORY_2: { title: '热门文章', url: '/wenzhang' },
+  HERO_CATEGORY_3: { title: '实用教程', url: '/jiaocheng' },
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
